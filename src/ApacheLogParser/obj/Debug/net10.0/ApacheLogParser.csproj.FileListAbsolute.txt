@@ -1,0 +1,14 @@
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/bin/Debug/net10.0/ApacheLogParser
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/bin/Debug/net10.0/ApacheLogParser.deps.json
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/bin/Debug/net10.0/ApacheLogParser.runtimeconfig.json
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/bin/Debug/net10.0/ApacheLogParser.dll
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/bin/Debug/net10.0/ApacheLogParser.pdb
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/obj/Debug/net10.0/ApacheLogParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/obj/Debug/net10.0/ApacheLogParser.AssemblyInfoInputs.cache
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/obj/Debug/net10.0/ApacheLogParser.AssemblyInfo.cs
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/obj/Debug/net10.0/ApacheLogParser.csproj.CoreCompileInputs.cache
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/obj/Debug/net10.0/ApacheLogParser.dll
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/obj/Debug/net10.0/refint/ApacheLogParser.dll
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/obj/Debug/net10.0/ApacheLogParser.pdb
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/obj/Debug/net10.0/ApacheLogParser.genruntimeconfig.cache
+/Users/lizcourp/ApacheLogParser/src/ApacheLogParser/obj/Debug/net10.0/ref/ApacheLogParser.dll
