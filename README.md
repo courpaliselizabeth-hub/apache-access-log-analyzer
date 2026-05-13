@@ -106,34 +106,34 @@ dotnet build
 dotnet run --project src/ApacheLogParser -- <path-to-log-file>
 ```
 
-**Example with the included sample file:**
+**Example with a real-world log file:**
 
 ```bash
-dotnet run --project src/ApacheLogParser -- sample.log
+dotnet run --project src/ApacheLogParser -- /Users/lizcourp/ApplyJob/pp/programming-task/programming-task-example-data.log
 ```
 
-**Expected output:**
+**Sample output:**
 
 ```
 === Apache Log Analysis Report ===
 
-Lines parsed:        21
-Lines skipped:       2
+Lines parsed:        23
+Lines skipped:       0
 
-Unique IP Addresses: 10
+Unique IP Addresses: 11
 
 Top 3 Most Visited URLs:
-  /index.html                                       7 request(s)
-  /about                                            5 request(s)
-  /contact                                          4 request(s)
+  /docs/manage-websites                             2 request(s)
+  /faq                                              2 request(s)
+  /                                                 1 request(s)
 
 Top 3 Most Active IP Addresses:
-  192.168.1.1              5 request(s)
-  10.0.0.5                 4 request(s)
-  192.168.1.2              3 request(s)
+  168.41.191.40            4 request(s)
+  177.71.128.21            3 request(s)
+  50.112.00.11             3 request(s)
 ```
 
-The 2 skipped lines are the deliberate malformed entries on lines 11 and 19 of `sample.log`.
+All 23 lines parsed successfully with no skipped entries.
 
 ---
 
