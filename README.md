@@ -115,22 +115,23 @@ dotnet run --project src/ApacheLogParser -- /Users/lizcourp/programming-task/pro
 **Sample output:**
 
 ```
-=== Apache Log Analysis Report ===
-
-Lines parsed:        23
-Lines skipped:       0
+═══════════════════════════════════════════════════════════════
+                    Log Analysis Results
+═══════════════════════════════════════════════════════════════
 
 Unique IP Addresses: 11
 
 Top 3 Most Visited URLs:
-  /docs/manage-websites                             2 request(s)
-  /faq                                              2 request(s)
-  /                                                 1 request(s)
+  1. /docs/manage-websites/        (2 requests)
+  2. /faq/                         (2 requests)
+  3. /blog/category/community/     (1 request)
 
 Top 3 Most Active IP Addresses:
-  168.41.191.40            4 request(s)
-  177.71.128.21            3 request(s)
-  50.112.00.11             3 request(s)
+  1. 168.41.191.40                 (4 requests)
+  2. 50.112.00.11                  (3 requests)
+  3. 177.71.128.21                 (3 requests)
+
+═══════════════════════════════════════════════════════════════
 ```
 
 All 23 lines parsed successfully with no skipped entries.
