@@ -109,7 +109,7 @@ dotnet run --project src/ApacheLogParser -- <path-to-log-file>
 **Example with a real-world log file:**
 
 ```bash
-dotnet run --project src/ApacheLogParser -- /Users/lizcourp/ApplyJob/pp/programming-task/programming-task-example-data.log
+dotnet run --project src/ApacheLogParser -- /Users/lizcourp/programming-task/programming-task-example-data.log
 ```
 
 **Sample output:**
